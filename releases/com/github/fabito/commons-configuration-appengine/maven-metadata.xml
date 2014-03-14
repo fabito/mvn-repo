@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.fabito</groupId>
+  <artifactId>commons-configuration-appengine</artifactId>
+  <version>1.1</version>
+  <versioning>
+    <versions>
+      <version>1.1</version>
+    </versions>
+    <lastUpdated>20140314000856</lastUpdated>
+  </versioning>
+</metadata>
